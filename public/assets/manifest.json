@@ -1,0 +1,16 @@
+{
+  "short_name": "LiteEx",
+  "name": "LiteGo Exchange",
+  "description": "LiteGo Exchange. Exchange cryptocurrencies in seconds with low fees",
+  "icons": [
+    {
+      "src": "public/assets/images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

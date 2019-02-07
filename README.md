@@ -1,0 +1,1 @@
+Boilerplate for React, Redux, Redux-thunk, Webpack projects
